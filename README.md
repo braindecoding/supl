@@ -3,14 +3,8 @@
 Repository: [GitHub - braindecoding/supl](https://github.com/braindecoding/supl)  
 
 The **Supplementary Files** directory contains two subfolders under the **experiments** folder:  
-1. **miawaki** – using the Miyawaki dataset  
-2. **vg** – using the Van Gerven dataset  
-
-## Miawaki Folder  
-
-This folder contains experiments using the Miyawaki dataset, including:  
-- Reports in **.xlsx** and **.csv** formats  
-- **knn** folder: plots of results for each batch, iteration, etc.  
+1. **vg** – using the Van Gerven dataset  
+2. **miawaki** – using the Miyawaki dataset  
 
 ## VG Folder  
 
@@ -126,3 +120,9 @@ And append a line to **FID_Results.csv**:
 9,128,10,1000, <FID Score>
 ```
 
+## Miawaki Folder  
+
+To reduze the size of suplementary file, for miyawaki folder content a several sampling.
+This folder contains experiments using the Miyawaki dataset, including:  
+- Reports in **.xlsx** and **.csv** formats  
+- **knn** folder: plots of results for each batch, iteration, etc.  
