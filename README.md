@@ -18,3 +18,4 @@ Contains:
 - Reports in **.csv** and **.xlsx** formats  
 - **plot** folder: reports for each iteration, batch, **z** value, and intermediate dimension analysis  
 
+By running runvg.bat inside plot folder generate FID_Result.csv and also calculation and reconstructed image for every latent, internmediate dimension, batch size and iterations.
