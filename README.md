@@ -1,20 +1,23 @@
-# Suplementary File
+# Supplementary Files  
 
-https://github.com/braindecoding/supl
+Repository: [GitHub - braindecoding/supl](https://github.com/braindecoding/supl)  
 
-Suplementary File consisting three folder under eksperimen folder:
-1. miawaki : using miyawaki dataset
-2. vg : using van gerven dataset
+The **Supplementary Files** directory contains three subfolders under the **experiments** folder:  
+1. **miawaki** – using the Miyawaki dataset  
+2. **vg** – using the Van Gerven dataset  
 
-## Miawaki folder
+## Miawaki Folder  
 
-Consisting experiment with miyawaki dataset, consisting:
-* xlxs and csv file report
-* knn folder: plot of result every batch, iteration etc
+Contains experiments using the Miyawaki dataset, including:  
+- Reports in **.xlsx** and **.csv** formats  
+- **knn** folder: plots of results for each batch, iteration, etc.  
 
+## VG Folder  
 
-## vg folder
+Contains:  
+- Reports in **.csv** and **.xlsx** formats  
+- **plot** folder: reports for each iteration, batch, **z** value, and intermediate dimension analysis  
 
-consisting:
-* csv and xlsx report
-* plot folder consisting report of each folder of iteration, batch, z, intermediate dimention report
+---
+
+This version is clearer and more professional. Let me know if you need further refinements! 😊
