@@ -160,7 +160,7 @@ miawaki/
 
   - `18_512_50_500_1.png` → 18 latent variables, 512 intermediate dimensions, batch size 50, 500 iterations (first sample)
 
-- **E9BBD310/**: Stores result reports, including:
+- Stores result reports, including:
 
   - `FID_Results_Figure.png`: Visualization of FID scores.
   - `FID_Results_My.csv`: FID results for Miyawaki dataset.
