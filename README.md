@@ -1,6 +1,7 @@
 # Supplementary Files  
 
-Repository: [GitHub - braindecoding/supl](https://github.com/braindecoding/supl)  
+Code Repository: [GitHub - braindecoding/supl](https://github.com/braindecoding/oaa)  
+Supplementary Files Repository: [GitHub - braindecoding/supl](https://github.com/braindecoding/supl)  
 
 The **Supplementary Files** directory contains two subfolders under the **experiments** folder:  
 1. **vg** – using the Van Gerven dataset  
