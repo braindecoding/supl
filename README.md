@@ -1,10 +1,15 @@
 # Supplementary Files  
 
-Repository: [GitHub - braindecoding/supl](https://github.com/braindecoding/supl)  
+Code Repository: [GitHub - braindecoding/supl](https://github.com/braindecoding/oaa)  
+Code Page: [Page - braindecoding/oaa](https://braindecoding.github.io/oaa/)  
+Supplementary Files Repository: [GitHub - braindecoding/supl](https://github.com/braindecoding/supl)  
+Supplementary Files Page: [Page - braindecoding/supl](https://braindecoding.github.io/supl/)  
 
 The **Supplementary Files** directory contains two subfolders under the **experiments** folder:  
 1. **vg** – using the Van Gerven dataset  
 2. **miawaki** – using the Miyawaki dataset  
+
+
 
 ## VG Folder  
 
@@ -155,7 +160,7 @@ miawaki/
 
   - `18_512_50_500_1.png` → 18 latent variables, 512 intermediate dimensions, batch size 50, 500 iterations (first sample)
 
-- **E9BBD310/**: Stores result reports, including:
+- Stores result reports, including:
 
   - `FID_Results_Figure.png`: Visualization of FID scores.
   - `FID_Results_My.csv`: FID results for Miyawaki dataset.
